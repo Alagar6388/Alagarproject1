@@ -1,4 +1,4 @@
-nmae: hello
+name: hello
 on: push
 
 jobs: 
